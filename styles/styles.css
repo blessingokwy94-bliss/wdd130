@@ -1,0 +1,41 @@
+main {
+    max-width: 840px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+aside {
+    width: 300px;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    padding: 15px;
+    background-color: #f0f8ff;
+    color: #333;
+    border-radius: 8px;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+
+p {
+    padding: 0%;
+}
+
+footer {
+    margin-top: 20px;
+    border-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color: #555;
+    background-color: #fafafa;
+}
